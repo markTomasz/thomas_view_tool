@@ -1,4 +1,4 @@
-module ThomasViewTool
+module MarkThomasViewTool
   class Error < StandardError; end
 
   class Renderer

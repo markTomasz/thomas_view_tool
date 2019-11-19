@@ -1,4 +1,4 @@
-# ThomasViewTool
+# MarkThomasViewTool
 
 > Various view specific methods for applications I use.
 
@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'thomas_view_tool'
+gem 'mark_thomas_view_tool'
 ```
 
 And then execute:
@@ -16,11 +16,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install thomas_view_tool
+    $ gem install mark_thomas_view_tool
 
 ## Usage
 ```ruby
-ThomasViewTool::Renderer.copyright 'Mark Thomas', 'All Rights Reserved'
+MarkThomasViewTool::Renderer.copyright 'Mark Thomas', 'All Rights Reserved'
 ```
 
 ## Development
@@ -39,4 +39,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the ThomasViewTool project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/thomas_view_tool/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the MarkThomasViewTool project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/thomas_view_tool/blob/master/CODE_OF_CONDUCT.md).

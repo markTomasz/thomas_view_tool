@@ -1,7 +1,7 @@
-require "thomas_view_tool/version"
-require "thomas_view_tool/renderer"
+require "mark_thomas_view_tool/version"
+require "mark_thomas_view_tool/renderer"
 
-module ThomasViewTool
+module MarkThomasViewTool
   class Error < StandardError; end
   # Your code goes here...
 end
