@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install thomas_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+ThomasViewTool::Renderer.copyright 'Mark Thomas', 'All Rights Reserved'
+```
 
 ## Development
 
